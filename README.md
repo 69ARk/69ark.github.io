@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到69方舟官网
 
 You can use the [editor on GitHub](https://github.com/69ARk/69ark.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
